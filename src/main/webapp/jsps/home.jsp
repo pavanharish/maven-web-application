@@ -12,6 +12,9 @@
 <h1 align="center">Welcome P@V@N. </h1>
 <h1 align="center"> Hello PAVAN.......We have a demo on  DevOps with AWS on  10th July  2021  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
+	<h2>2nd font size </h2>
+	<h6>6thfont size </h6>
+	<p>Designed for those who defy limits and change the world, the new MacBook Pro is by far the most powerful notebook we’ve ever made. With an immersive 16-inch Retina display, super-fast processors, next-generation graphics, the largest battery capacity ever in a MacBook Pro, a new Magic Keyboard and massive storage, it’s the ultimate pro notebook for the ultimate user.   </p)
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
